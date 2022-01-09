@@ -1,4 +1,4 @@
-# Constellation_Test
+# 简单星座检测
 python小程序，输入对应年月日可检测对应星座。
 
 可识别闰年以及闰月。
